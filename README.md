@@ -1,3 +1,5 @@
+该篇文章是 Kai Guo 的 [medium 文章](https://medium.com/@guokai83524/building-redux-from-scratch-e12eb0e484c8) 的翻译。
+
 日常工作、学习中我们在写 React 项目需要全局状态管理时经常会用到 Redux。今天让我们从无到有自己动手写一个 Redux 来更好地理解它是如何工作的。不要害怕，抛开 react-redux，Redux 本身并不复杂。
 
 # APIs
